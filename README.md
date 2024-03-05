@@ -36,5 +36,5 @@ HTML5 -CSS3 -JavaScript -React -Redux -Git -VisualStudio -Material-UI
 <br/>
 
 
-**See some Work I worked On**
+**See some Projects I worked On**
 👇🏻 👇🏻 👇🏻
