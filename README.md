@@ -33,3 +33,8 @@ HTML5 -CSS3 -JavaScript -React -Redux -Git -VisualStudio -Material-UI
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br/>
+
+
+**See some Work I worked On**
+👇🏻 👇🏻 👇🏻
