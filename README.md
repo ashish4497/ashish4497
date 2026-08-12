@@ -2,7 +2,7 @@
 
 **About**
 
-A self-taught frontend developer with a Bachelor of Computer Applications (BCA) background, offering a unique blend of experiences. I specialize in creating scalable web applications, API interaction, and responsive layout design.
+A self-taught frontend developer with a Bachelor of Computer Applications (BCA) background, offering a unique blend of experiences. I specialize in creating scalable web applications, API interactions, and responsive layout design.
 
 **My technologies**
 
@@ -13,7 +13,7 @@ A self-taught frontend developer with a Bachelor of Computer Applications (BCA) 
 </p>
 
 
-HTML5 -CSS3 -JavaScript -React -Redux -Git -VisualStudio -Material-UI 
+HTML5 -CSS3 -JavaScript -Reactjs -Nextjs -Redux -Git -VisualStudio -Material-UI -Tailwindcss -Tanstack 
 
 
 **Some stats**
